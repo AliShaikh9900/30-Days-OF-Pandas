@@ -23,7 +23,7 @@ I am solving the LeetCode 30 Days of Pandas study plan to improve my Python, Pan
 - Data Manipulation
 
 ## Platform
-- LeetCode
+ LeetCode
 
 ## Author
 Ali Asif Shaikh
